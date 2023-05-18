@@ -2,7 +2,7 @@
 
 I'm 26 years old web & mobile developer from Visoko, Bosnia and Herzegovina.
 
-:briefcase: I’m currently working as a Frontend Developer at Indevitus d.o.o
+:briefcase: I’m currently working as a Frontend Developer at Visiot
 
 :computer: Visit my website at: https://edinkahvedzic.com
 
