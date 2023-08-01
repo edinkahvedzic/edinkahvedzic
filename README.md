@@ -16,6 +16,7 @@ I'm 26 years old web & mobile developer from Visoko, Bosnia and Herzegovina.
 - TypeScript
 - React.js
 - React Native
+- Vue.js
 - PHP
 - Laravel
 - Node.js
