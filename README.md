@@ -1,14 +1,14 @@
 ### 👋 Hi, I’m @edinkahvedzic
 
-I'm 26 years old web & mobile developer from Visoko, Bosnia and Herzegovina.
+I'm 28 years old web & mobile developer from Visoko, Bosnia and Herzegovina.
 
 :briefcase: I’m currently working as a Frontend Developer at Visiot
 
-:computer: Visit my website at: https://edinkahvedzic.com
+:computer: Visit my website at: https://kahvedzic.ba
 
 #### 📫 You can contact me via: 
 
-- :envelope: email: mail@edinkahvedzic.com 
+- :envelope: email: edin@kahvedzic.ba 
 - :iphone: phone: +38761572137
 
 #### Technologies I'm working with:
